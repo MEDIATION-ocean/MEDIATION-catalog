@@ -1,6 +1,6 @@
 # Data catalog for the MEDIATION project
 
-Here you will find a detailed list of the MEDIATION data that are available so far, and thus a global view of the catalog's architecture. The [tools](MEDIATION-tools/), [simulations](MEDIATION-simulations/) and [observations](MEDIATION-observations/) are either available by direct download on this repository, or by a hyperlink / access path.
+Here you will find a detailed list of the MEDIATION data that are available so far, and thus a global view of the catalog's architecture. The [tools](README.md#MEDIATION-tools/), [simulations](README.md#MEDIATION-simulations/) and [observations](README.md#MEDIATION-observations/) are either available by direct download on this repository, or by a hyperlink / access path.
 
 ## MEDIATION-simulations
 
